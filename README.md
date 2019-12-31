@@ -6,4 +6,6 @@
     npm install mv-cli -g
     <!-- 创建项目 -->
     mv init <template-name> <project-name>
+    <!-- 安装本地模板 -->
+    mv install <template-name>
 ```
